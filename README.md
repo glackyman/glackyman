@@ -66,14 +66,8 @@
 ###
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glackyman&show_icons=true&locale=en&layout=compact" alt="violetgminisj25" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glackyman&show_icons=true&locale=en" alt="violetgminisj25" /></p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/glackyman/glackyman/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 <!--
 **glackyman/glackyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
